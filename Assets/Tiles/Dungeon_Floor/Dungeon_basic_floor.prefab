@@ -355,7 +355,7 @@ GameObject:
   - component: {fileID: 5284522001576959226}
   - component: {fileID: 4344344585823827013}
   m_Layer: 31
-  m_Name: Pallete de connar
+  m_Name: Dungeon_basic_floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
