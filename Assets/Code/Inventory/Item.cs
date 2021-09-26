@@ -10,4 +10,13 @@ public class Item : ScriptableObject
     public string description;
     public Sprite icon;
     public string type;
+
+    public Item(int nid, string ntitle, string ndescription, Sprite nicon, string ntype)
+    {
+        id = nid;
+        title = ntitle;
+        description = ndescription;
+        icon = nicon;
+        type = ntype;
+    }
 }
