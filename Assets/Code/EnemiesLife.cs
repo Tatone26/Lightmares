@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnememiesLife : MonoBehaviour
+public class EnemiesLife : MonoBehaviour
 {
     public int maxHealth = 100;
     int currentHealth;
@@ -11,15 +11,14 @@ public class EnememiesLife : MonoBehaviour
     void Start()
     {
         currentHealth = maxHealth;
-
     }
-    
-    public void TakeDamage (int damage)
+
+    public void TakeDamage(int damage)
     {
         currentHealth -= damage;
         // animation de damage a mettre
 
-        if(currentHealth <= 0)
+        if (currentHealth <= 0)
         {
             Mort();
         }
@@ -31,8 +30,5 @@ public class EnememiesLife : MonoBehaviour
 
         GetComponent<Collider2D>().enabled = false;
         GetComponent<SpriteRenderer>().enabled = false;
-
     }
-
-
 }
