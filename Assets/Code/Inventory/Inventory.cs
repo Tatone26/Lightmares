@@ -9,7 +9,14 @@ public class Inventory : MonoBehaviour
 
     void addItem(Item item, InventorySlot slot)
     {
-        slot.addItem(item);
+        if (slot.addItem(item))
+        {
+            Debug.Log("Item rajouté à l'inventaire");
+        }
+        else
+        {
+            Debug.Log("Item n'a pas réussi à être rajouté. T nul.");
+        }
     }
 
     void removeItem(Item item)
@@ -19,25 +26,25 @@ public class Inventory : MonoBehaviour
     // Setup all inventory slots.
     void Start()
     {
-        listSlots.Add(new InventorySlot("sword"));
-        listSlots.Add(new InventorySlot("armor"));
-        listSlots.Add(new InventorySlot("bow"));
-        listSlots.Add(new InventorySlot("wand"));
+        listSlots.Add(new InventorySlot("sword", 1));
+        listSlots.Add(new InventorySlot("armor", 1));
+        listSlots.Add(new InventorySlot("bow", 1));
+        listSlots.Add(new InventorySlot("wand", 1));
         for (int i = 0; i < 3; i++)
         {
-            listSlots.Add(new InventorySlot("arrow"));
+            listSlots.Add(new InventorySlot("arrow", 1));
         }
         for (int i = 0; i < 3; i++)
         {
-            listSlots.Add(new InventorySlot("scroll"));
+            listSlots.Add(new InventorySlot("scroll", 1));
         }
         for (int i = 0; i < 4; i++)
         {
-            listSlots.Add(new InventorySlot("potion"));
+            listSlots.Add(new InventorySlot("potion", 1));
         }
         for (int i = 0; i < 4; i++)
         {
-            listSlots.Add(new InventorySlot("food"));
+            listSlots.Add(new InventorySlot("food", 1));
         }
     }
 

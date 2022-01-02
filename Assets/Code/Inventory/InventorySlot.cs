@@ -5,18 +5,21 @@ using UnityEngine;
 public class InventorySlot
 {
     private string typeOfSlot;
-    private Item item;
+    private Item[] item;
+    private int size;
 
-    public InventorySlot(string type)
+    public InventorySlot(string type, int si)
     {
         typeOfSlot = type;
+        item = new Item[si];
+        size = si;
     }
 
-    public bool addItem(Item it)
+    public bool addItem(Item ite)
     {
-        if (it.type == typeOfSlot)
+        if (ite.type == typeOfSlot)
         {
-            item = it;
+            item[0] = ite;
             return true;
         }
         else
@@ -27,6 +30,6 @@ public class InventorySlot
 
     Item getItem()
     {
-        return item;
+        return item[0];
     }
 }

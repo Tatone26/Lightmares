@@ -5,7 +5,6 @@ using UnityEngine.UI;
 
 public class InventoryApparition : MonoBehaviour
 {
-    public GameObject worldCamera;
     private Image inventoryImage;
 
     // Start is called before the first frame update
