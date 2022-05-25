@@ -7,7 +7,7 @@ public class PlayerMovement : MonoBehaviour
     public float moveSpeed = 5f;
     public Rigidbody2D rb;
     public BoxCollider2D interactCollider;
-    public BoxCollider2D attackCollider;
+    public BoxCollider2D attackCollider_0; public Collider2D attackCollider_1; public CapsuleCollider2D attackCollider_2;
     public Animator animator;
 
     Vector2 movement;
@@ -33,8 +33,12 @@ public class PlayerMovement : MonoBehaviour
                 animator.SetFloat("BaseHorizontal", movement.x);
                 animator.SetFloat("BaseVertical", 0f);
                 interactCollider.offset = new Vector2(Mathf.Sign(movement.x) * 0.3f, 0f);
-                attackCollider.offset = new Vector2(Mathf.Sign(movement.x) * 0.5f, 0f);
-                attackCollider.size = new Vector2(0.4f, 1f);
+                attackCollider_0.offset = new Vector2(Mathf.Sign(movement.x) * 0.5f, 0f);
+                attackCollider_0.size = new Vector2(0.4f, 1f);
+                attackCollider_1.offset = new Vector2(Mathf.Sign(movement.x) * 0.5f, 0f);
+                attackCollider_2.offset = new Vector2(Mathf.Sign(movement.x) * 1.2f, 0f);
+                attackCollider_2.direction = CapsuleDirection2D.Horizontal;
+                attackCollider_2.size = new Vector2(2.1f, 0.7f);
             }
         }
         else if (movement.y != 0)
@@ -44,8 +48,12 @@ public class PlayerMovement : MonoBehaviour
                 animator.SetFloat("BaseVertical", movement.y);
                 animator.SetFloat("BaseHorizontal", 0f);
                 interactCollider.offset = new Vector2(0f, Mathf.Sign(movement.y) * 0.3f);
-                attackCollider.offset = new Vector2(0f, Mathf.Sign(movement.y) * 0.5f);
-                attackCollider.size = new Vector2(1f, 0.4f);
+                attackCollider_0.offset = new Vector2(0f, Mathf.Sign(movement.y) * 0.5f);
+                attackCollider_0.size = new Vector2(1f, 0.4f);
+                attackCollider_1.offset = new Vector2(0f, Mathf.Sign(movement.y) * 0.5f);
+                attackCollider_2.offset = new Vector2(0f, Mathf.Sign(movement.y) * 1.2f);
+                attackCollider_2.direction = CapsuleDirection2D.Vertical;
+                attackCollider_2.size = new Vector2(0.7f, 2.1f);
             }
         }
     }
