@@ -1,0 +1,1917 @@
+fileFormatVersion: 2
+guid: 9129a55ba30862b44a711d4ec6baa9cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 400564607032418744
+    second: Mortherbe_0
+  - first:
+      213: -7425441382546453042
+    second: Mortherbe_1
+  - first:
+      213: 1840237888074503855
+    second: Mortherbe_2
+  - first:
+      213: -8104814711781392663
+    second: Mortherbe_3
+  - first:
+      213: 6540328231597340793
+    second: Mortherbe_4
+  - first:
+      213: 4390692844059988374
+    second: Mortherbe_5
+  - first:
+      213: 4346767348907616649
+    second: Mortherbe_6
+  - first:
+      213: 1941598473687908768
+    second: Mortherbe_7
+  - first:
+      213: -5741526739274212995
+    second: Mortherbe_8
+  - first:
+      213: 4853488546706017756
+    second: Mortherbe_9
+  - first:
+      213: -1723781242625909704
+    second: Mortherbe_10
+  - first:
+      213: -4755142556323248885
+    second: Mortherbe_11
+  - first:
+      213: 3597955799644010538
+    second: Mortherbe_12
+  - first:
+      213: -480155765118477899
+    second: Mortherbe_13
+  - first:
+      213: 6223599721348973227
+    second: Mortherbe_14
+  - first:
+      213: -618691819057750679
+    second: Mortherbe_15
+  - first:
+      213: -1101431492035426432
+    second: Mortherbe_16
+  - first:
+      213: -795009403019822738
+    second: Mortherbe_17
+  - first:
+      213: 2706074053379689952
+    second: Mortherbe_18
+  - first:
+      213: 1891120784264403863
+    second: Mortherbe_19
+  - first:
+      213: 3169425555955666907
+    second: Mortherbe_20
+  - first:
+      213: -2243282539408806725
+    second: Mortherbe_21
+  - first:
+      213: 1624503288415668398
+    second: Mortherbe_22
+  - first:
+      213: 2872299839378322038
+    second: Mortherbe_23
+  - first:
+      213: 898575747238748039
+    second: Mortherbe_24
+  - first:
+      213: -6938111205402118443
+    second: Mortherbe_25
+  - first:
+      213: 8507649525178305159
+    second: Mortherbe_26
+  - first:
+      213: 52625298892634382
+    second: Mortherbe_27
+  - first:
+      213: 4063185473068937280
+    second: Mortherbe_28
+  - first:
+      213: -3362837684422756470
+    second: Mortherbe_29
+  - first:
+      213: 1230091090489088329
+    second: Mortherbe_30
+  - first:
+      213: 8285935118573103127
+    second: Mortherbe_31
+  - first:
+      213: -2554049250991796847
+    second: Mortherbe_32
+  - first:
+      213: -1527950486415104006
+    second: Mortherbe_33
+  - first:
+      213: -8473644648101913404
+    second: Mortherbe_34
+  - first:
+      213: -7089044119452859492
+    second: Mortherbe_35
+  - first:
+      213: 5338632951277181153
+    second: Mortherbe_36
+  - first:
+      213: 9147741914000137111
+    second: Mortherbe_37
+  - first:
+      213: -2452478190592389411
+    second: Mortherbe_38
+  - first:
+      213: 4480490440660719817
+    second: Mortherbe_39
+  - first:
+      213: 3841885601419700565
+    second: Mortherbe_40
+  - first:
+      213: 77959580129200842
+    second: Mortherbe_41
+  - first:
+      213: 8547998323814050270
+    second: Mortherbe_42
+  - first:
+      213: 2769677873729553508
+    second: Mortherbe_43
+  - first:
+      213: 6073434120675716194
+    second: Mortherbe_44
+  - first:
+      213: -4631059186109146541
+    second: Mortherbe_45
+  - first:
+      213: 3279535192544905030
+    second: Mortherbe_46
+  - first:
+      213: 7856811068878564503
+    second: Mortherbe_47
+  - first:
+      213: 8095051058007925038
+    second: Mortherbe_48
+  - first:
+      213: 6664763666359176248
+    second: Mortherbe_49
+  - first:
+      213: 3730392279872704902
+    second: Mortherbe_50
+  - first:
+      213: -2424567248782836105
+    second: Mortherbe_51
+  - first:
+      213: -396394248284052411
+    second: Mortherbe_52
+  - first:
+      213: 4535159572586298728
+    second: Mortherbe_53
+  - first:
+      213: 3728712611608985152
+    second: Mortherbe_54
+  - first:
+      213: -6584330380026107754
+    second: Mortherbe_55
+  - first:
+      213: 6653537558199157404
+    second: Mortherbe_56
+  - first:
+      213: 3493541729920889629
+    second: Mortherbe_57
+  - first:
+      213: 2067280862174753039
+    second: Mortherbe_58
+  - first:
+      213: -3672001417451965869
+    second: Mortherbe_59
+  - first:
+      213: 6529686663320944661
+    second: Mortherbe_60
+  - first:
+      213: 9222725902049504376
+    second: Mortherbe_61
+  - first:
+      213: 1301200487722818479
+    second: Mortherbe_62
+  - first:
+      213: 6703968521272819908
+    second: Mortherbe_63
+  - first:
+      213: 609745710136461745
+    second: Mortherbe_64
+  - first:
+      213: 6004102560688607885
+    second: Mortherbe_65
+  - first:
+      213: -158358337705533351
+    second: Mortherbe_66
+  - first:
+      213: 8043666317940205433
+    second: Mortherbe_67
+  - first:
+      213: 3505266690691231287
+    second: Mortherbe_68
+  - first:
+      213: -7242545395759556040
+    second: Mortherbe_69
+  - first:
+      213: -5771062915931378766
+    second: Mortherbe_70
+  - first:
+      213: 5142093066189548994
+    second: Mortherbe_71
+  - first:
+      213: -9002886040952055347
+    second: Mortherbe_72
+  - first:
+      213: 7679030098774058744
+    second: Mortherbe_73
+  - first:
+      213: -1214075584125025344
+    second: Mortherbe_74
+  - first:
+      213: 5527805800354945635
+    second: Mortherbe_75
+  - first:
+      213: 6303271687715141944
+    second: Mortherbe_76
+  - first:
+      213: 3294432741500268398
+    second: Mortherbe_77
+  - first:
+      213: 6311825817673777897
+    second: Mortherbe_78
+  - first:
+      213: -894139687048872471
+    second: Mortherbe_79
+  - first:
+      213: -6249994998112447013
+    second: Mortherbe_80
+  - first:
+      213: 4721465690191923958
+    second: Mortherbe_81
+  - first:
+      213: -1437041464567986097
+    second: Mortherbe_82
+  - first:
+      213: 8137916161903670721
+    second: Mortherbe_83
+  - first:
+      213: -4670628220291606689
+    second: Mortherbe_84
+  - first:
+      213: -408855428671715099
+    second: Mortherbe_85
+  - first:
+      213: -6209979623918119148
+    second: Mortherbe_86
+  - first:
+      213: 2725725572200573988
+    second: Mortherbe_87
+  - first:
+      213: -7058822649478628192
+    second: Mortherbe_88
+  - first:
+      213: 4465468620538782009
+    second: Mortherbe_89
+  - first:
+      213: -3979090279461253630
+    second: Mortherbe_90
+  - first:
+      213: -1561161169624642047
+    second: Mortherbe_91
+  - first:
+      213: 3101297524312926680
+    second: Mortherbe_92
+  - first:
+      213: -3265899753468093299
+    second: Mortherbe_93
+  - first:
+      213: 9096814726430066732
+    second: Mortherbe_94
+  - first:
+      213: -1330970168181160803
+    second: Mortherbe_95
+  - first:
+      213: 5897902206386541896
+    second: Mortherbe_96
+  - first:
+      213: 9086975681818512083
+    second: Mortherbe_97
+  - first:
+      213: -7413804256822591969
+    second: Mortherbe_98
+  - first:
+      213: -7263364583423838502
+    second: Mortherbe_99
+  - first:
+      213: 3892325405062560417
+    second: Mortherbe_100
+  - first:
+      213: -5690348761394540986
+    second: Mortherbe_101
+  - first:
+      213: 3303552251596998525
+    second: Mortherbe_102
+  - first:
+      213: 7279360527753393651
+    second: Mortherbe_103
+  - first:
+      213: 3489736446627053902
+    second: Mortherbe_104
+  - first:
+      213: 7948300438637660458
+    second: Mortherbe_105
+  - first:
+      213: 4894525844913515571
+    second: Mortherbe_106
+  - first:
+      213: -1141003918501937196
+    second: Mortherbe_107
+  - first:
+      213: -7248765047277118410
+    second: Mortherbe_108
+  - first:
+      213: 7726942754146080234
+    second: Mortherbe_109
+  - first:
+      213: -1868015674027866807
+    second: Mortherbe_110
+  - first:
+      213: 3310741364036935129
+    second: Mortherbe_111
+  - first:
+      213: 2187842723810325143
+    second: Mortherbe_112
+  - first:
+      213: -948316214409636193
+    second: Mortherbe_113
+  - first:
+      213: -8373215486328178483
+    second: Mortherbe_114
+  - first:
+      213: 316773115544649302
+    second: Mortherbe_115
+  - first:
+      213: -8316570667697203872
+    second: Mortherbe_116
+  - first:
+      213: 5435120498090714795
+    second: Mortherbe_117
+  - first:
+      213: 8532073925007674663
+    second: Mortherbe_118
+  - first:
+      213: -1710011215355962221
+    second: Mortherbe_119
+  - first:
+      213: -2310446200979181391
+    second: Mortherbe_120
+  - first:
+      213: 2837108010405817887
+    second: Mortherbe_121
+  - first:
+      213: 5421333422740099614
+    second: Mortherbe_122
+  - first:
+      213: 4090718623045092242
+    second: Mortherbe_123
+  - first:
+      213: -7862940181749250800
+    second: Mortherbe_124
+  - first:
+      213: 7737416230457437987
+    second: Mortherbe_125
+  - first:
+      213: 1208458214440558314
+    second: Mortherbe_126
+  - first:
+      213: -240432038069197833
+    second: Mortherbe_127
+  - first:
+      213: -5237493857089973869
+    second: Mortherbe_128
+  - first:
+      213: 7123898911311047309
+    second: Mortherbe_129
+  - first:
+      213: 7765195791064726626
+    second: Mortherbe_130
+  - first:
+      213: 6118504671243558571
+    second: Mortherbe_131
+  - first:
+      213: 6644022418283224437
+    second: Mortherbe_132
+  - first:
+      213: -6420139965787469398
+    second: Mortherbe_133
+  - first:
+      213: -7659518465242839394
+    second: Mortherbe_134
+  - first:
+      213: 6970267279860417151
+    second: Mortherbe_135
+  - first:
+      213: -7314875645187087651
+    second: Mortherbe_136
+  - first:
+      213: -1682394492876440084
+    second: Mortherbe_137
+  - first:
+      213: 3359566201435313545
+    second: Mortherbe_138
+  - first:
+      213: 4671864942423629994
+    second: Mortherbe_139
+  - first:
+      213: -2808294370447674861
+    second: Mortherbe_140
+  - first:
+      213: 6806133863381677695
+    second: Mortherbe_141
+  - first:
+      213: 2153750398623906828
+    second: Mortherbe_142
+  - first:
+      213: -5059645954858393194
+    second: Mortherbe_143
+  - first:
+      213: 1078802971622958829
+    second: Mortherbe_144
+  - first:
+      213: 9103980044407752764
+    second: Mortherbe_145
+  - first:
+      213: 4794504100334729626
+    second: Mortherbe_146
+  - first:
+      213: -2768015478751678789
+    second: Mortherbe_147
+  - first:
+      213: 9173661766017247600
+    second: Mortherbe_148
+  - first:
+      213: -7559461342086418289
+    second: Mortherbe_149
+  - first:
+      213: 3018177467710677105
+    second: Mortherbe_150
+  - first:
+      213: 8495232660286015978
+    second: Mortherbe_151
+  - first:
+      213: -4131291809541675059
+    second: Mortherbe_152
+  - first:
+      213: -1048272600879039259
+    second: Mortherbe_153
+  - first:
+      213: -3292461315748440792
+    second: Mortherbe_154
+  - first:
+      213: -8659792928989160555
+    second: Mortherbe_155
+  - first:
+      213: 206373750002302360
+    second: Mortherbe_156
+  - first:
+      213: 5818295520745111518
+    second: Mortherbe_157
+  - first:
+      213: -623933307069136916
+    second: Mortherbe_158
+  - first:
+      213: 6721240533314294140
+    second: Mortherbe_159
+  - first:
+      213: 5476696576319827424
+    second: Mortherbe_160
+  - first:
+      213: -694803557591531139
+    second: Mortherbe_161
+  - first:
+      213: -8718322372483914296
+    second: Mortherbe_162
+  - first:
+      213: -5914988405067823925
+    second: Mortherbe_163
+  - first:
+      213: -5954041555036073356
+    second: Mortherbe_164
+  - first:
+      213: -1031155674877066973
+    second: Mortherbe_165
+  - first:
+      213: 6981505211941876380
+    second: Mortherbe_166
+  - first:
+      213: -6174631505323296316
+    second: Mortherbe_167
+  - first:
+      213: 3887786435986935381
+    second: Mortherbe_168
+  - first:
+      213: 5589073564319507853
+    second: Mortherbe_169
+  - first:
+      213: -3799286828254594644
+    second: Mortherbe_170
+  - first:
+      213: -6644007433412028414
+    second: Mortherbe_171
+  - first:
+      213: 3668077643548758418
+    second: Mortherbe_172
+  - first:
+      213: 6988345709674021913
+    second: Mortherbe_173
+  - first:
+      213: -34364453281081392
+    second: Mortherbe_174
+  - first:
+      213: 7653887907325316805
+    second: Mortherbe_175
+  - first:
+      213: -7737359492612845310
+    second: Mortherbe_176
+  - first:
+      213: -1272344148904000037
+    second: Mortherbe_177
+  - first:
+      213: -1520880496044223240
+    second: Mortherbe_178
+  - first:
+      213: 7169269094573004359
+    second: Mortherbe_179
+  - first:
+      213: 8131149185970938447
+    second: Mortherbe_180
+  - first:
+      213: 8715271795467866249
+    second: Mortherbe_181
+  - first:
+      213: -3471784664767214493
+    second: Mortherbe_182
+  - first:
+      213: -8048894945259083263
+    second: Mortherbe_183
+  - first:
+      213: 7420562717532650308
+    second: Mortherbe_184
+  - first:
+      213: -842289774068167059
+    second: Mortherbe_185
+  - first:
+      213: -7341639969998852287
+    second: Mortherbe_186
+  - first:
+      213: -3946954111007437199
+    second: Mortherbe_187
+  - first:
+      213: 3394640229820881810
+    second: Mortherbe_188
+  - first:
+      213: 780511296984097157
+    second: Mortherbe_189
+  - first:
+      213: 4097119094593670417
+    second: Mortherbe_190
+  - first:
+      213: -6425968199369509163
+    second: Mortherbe_191
+  - first:
+      213: -282921157784969441
+    second: Mortherbe_192
+  - first:
+      213: 6135705974686655337
+    second: Mortherbe_193
+  - first:
+      213: -6995089476002495555
+    second: Mortherbe_194
+  - first:
+      213: -6724099311429098913
+    second: Mortherbe_195
+  - first:
+      213: -8156335344380787579
+    second: Mortherbe_196
+  - first:
+      213: -2257900959134575596
+    second: Mortherbe_197
+  - first:
+      213: -7203365810582371970
+    second: Mortherbe_198
+  - first:
+      213: 6873159943725124296
+    second: Mortherbe_199
+  - first:
+      213: 7898704353205726049
+    second: Mortherbe_200
+  - first:
+      213: 8737398876927912082
+    second: Mortherbe_201
+  - first:
+      213: 1843256854833305332
+    second: Mortherbe_202
+  - first:
+      213: 1107470467089785303
+    second: Mortherbe_203
+  - first:
+      213: -7470478695032147322
+    second: Mortherbe_204
+  - first:
+      213: 8281673325661735086
+    second: Mortherbe_205
+  - first:
+      213: 7497745842973504512
+    second: Mortherbe_206
+  - first:
+      213: 4907886101996296313
+    second: Mortherbe_207
+  - first:
+      213: -7969953495765851430
+    second: Mortherbe_208
+  - first:
+      213: -966911046854385638
+    second: Mortherbe_209
+  - first:
+      213: -5979970771631245056
+    second: Mortherbe_210
+  - first:
+      213: -5034341928348149099
+    second: Mortherbe_211
+  - first:
+      213: 9061403630023084071
+    second: Mortherbe_212
+  - first:
+      213: 2345871748586017679
+    second: Mortherbe_213
+  - first:
+      213: -6607818071962675501
+    second: Mortherbe_214
+  - first:
+      213: -4055384776862700004
+    second: Mortherbe_215
+  - first:
+      213: 6753659928070975582
+    second: Mortherbe_216
+  - first:
+      213: -8331559196801558608
+    second: Mortherbe_217
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mortherbe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1e2c743671f8500800000000000000
+      internalID: 400564607032418744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd45dc776883f890800000000000000
+      internalID: -7425441382546453042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa655e4fb96d98910800000000000000
+      internalID: 1840237888074503855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eef8e5f5f9e58f80800000000000000
+      internalID: -8104814711781392663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97871dedfd9e3ca50800000000000000
+      internalID: 6540328231597340793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6919b08f0efdeec30800000000000000
+      internalID: 4390692844059988374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989a7e8afd1d25c30800000000000000
+      internalID: 4346767348907616649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1cb985681f1fa10800000000000000
+      internalID: 1941598473687908768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79572db9dff150b0800000000000000
+      internalID: -5741526739274212995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddc6db4e1e0b5340800000000000000
+      internalID: 4853488546706017756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c1dc2c716e318e0800000000000000
+      internalID: -1723781242625909704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b058202f907520eb0800000000000000
+      internalID: -4755142556323248885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28765bacb18ee130800000000000000
+      internalID: 3597955799644010538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9d14720e42659f0800000000000000
+      internalID: -480155765118477899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2c937f8faae5650800000000000000
+      internalID: 6223599721348973227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d5f9b8117f967f0800000000000000
+      internalID: -618691819057750679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087ccc4c4ede6b0f0800000000000000
+      internalID: -1101431492035426432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6978ebf82f87f4f0800000000000000
+      internalID: -795009403019822738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed099f9308ed8520800000000000000
+      internalID: 2706074053379689952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b107d655c9e3a10800000000000000
+      internalID: 1891120784264403863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf48c430cf0cfb20800000000000000
+      internalID: 3169425555955666907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbca3b37a624ed0e0800000000000000
+      internalID: -2243282539408806725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8487242256b8610800000000000000
+      internalID: 1624503288415668398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6727e8e5c757cd720800000000000000
+      internalID: 2872299839378322038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f52f991e1687c00800000000000000
+      internalID: 898575747238748039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d679dd4e90e6bf90800000000000000
+      internalID: -6938111205402118443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a06cdea2e311670800000000000000
+      internalID: 8507649525178305159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09b1b63e66fab000800000000000000
+      internalID: 52625298892634382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0403dcaf8a5536830800000000000000
+      internalID: 4063185473068937280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a873fae61fcc451d0800000000000000
+      internalID: -3362837684422756470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_30
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94999f95459221110800000000000000
+      internalID: 1230091090489088329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718eb7ee61e8df270800000000000000
+      internalID: 8285935118573103127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d08c7fcb13e8cd0800000000000000
+      internalID: -2554049250991796847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7a7d6c021abcae0800000000000000
+      internalID: -1527950486415104006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccdefc7611976a80800000000000000
+      internalID: -8473644648101913404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93c0f6cee7ae9d90800000000000000
+      internalID: -7089044119452859492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e852174262a61a40800000000000000
+      internalID: 5338632951277181153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b1ee0ddce43fe70800000000000000
+      internalID: 9147741914000137111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde0956541c07fdd0800000000000000
+      internalID: -2452478190592389411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c89d1f2156ed2e30800000000000000
+      internalID: 4480490440660719817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5592f4c699e115530800000000000000
+      internalID: 3841885601419700565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_41
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca807833d7f41100800000000000000
+      internalID: 77959580129200842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9229faf2790a670800000000000000
+      internalID: 8547998323814050270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_43
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464c8ed0a5fdf6620800000000000000
+      internalID: 2769677873729553508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cec91872c294450800000000000000
+      internalID: 6073434120675716194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a9726e43c2bbfb0800000000000000
+      internalID: -4631059186109146541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6470804c1ef338d20800000000000000
+      internalID: 3279535192544905030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c2ddb3a00090d60800000000000000
+      internalID: 7856811068878564503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21663f3c06675070800000000000000
+      internalID: 8095051058007925038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cc44d3e3ffd7c50800000000000000
+      internalID: 6664763666359176248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6811caa930405c330800000000000000
+      internalID: 3730392279872704902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eb042eee43a5ed0800000000000000
+      internalID: -2424567248782836105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54465080889bf7af0800000000000000
+      internalID: -396394248284052411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_53
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86df7bb5a9f10fe30800000000000000
+      internalID: 4535159572586298728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortherbe_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ef87c5d5c0fb330800000000000000
+      internalID: 3728712611608985152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

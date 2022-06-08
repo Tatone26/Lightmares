@@ -9,6 +9,7 @@ public class PlayerMovement : MonoBehaviour
     public BoxCollider2D interactCollider;
     public BoxCollider2D attackCollider;
     public Animator animator;
+    public Transform Attack;
 
     Vector2 movement;
     // Start is called before the first frame update
@@ -35,6 +36,8 @@ public class PlayerMovement : MonoBehaviour
                 interactCollider.offset = new Vector2(Mathf.Sign(movement.x) * 0.3f, 0f);
                 attackCollider.offset = new Vector2(Mathf.Sign(movement.x) * 0.5f, 0f);
                 attackCollider.size = new Vector2(0.4f, 1f);
+                //Attack.position = new Vector2(Mathf.Sign(movement.x)*0.8f, 0f) * rb.position;
+                Attack.rotation = Quaternion.AngleAxis(Mathf.Sign(movement.x) * -90, Vector3.forward);
             }
         }
         else if (movement.y != 0)
@@ -46,6 +49,8 @@ public class PlayerMovement : MonoBehaviour
                 interactCollider.offset = new Vector2(0f, Mathf.Sign(movement.y) * 0.3f);
                 attackCollider.offset = new Vector2(0f, Mathf.Sign(movement.y) * 0.5f);
                 attackCollider.size = new Vector2(1f, 0.4f);
+                //Attack.position = new Vector2(0f, Mathf.Sign(movement.y)*0.8f) + rb.position;
+                Attack.rotation =  Quaternion.AngleAxis((Mathf.Sign(movement.y)-1)*90, Vector3.forward);
             }
         }
     }

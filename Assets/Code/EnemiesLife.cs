@@ -6,6 +6,7 @@ public class EnemiesLife : MonoBehaviour
 {
     public int maxHealth = 100;
     int currentHealth;
+    public Animator animator;
 
     // Start is called before the first frame update
     void Start()
@@ -16,19 +17,20 @@ public class EnemiesLife : MonoBehaviour
     public void TakeDamage(int damage)
     {
         currentHealth -= damage;
-        // animation de damage a mettre
+        // animation de damage 
+        animator.SetTrigger("Hurt");
 
         if (currentHealth <= 0)
         {
             Mort();
         }
+
     }
 
     void Mort()
     {
         Debug.Log("Enemy died");
+        Destroy(gameObject);
 
-        GetComponent<Collider2D>().enabled = false;
-        GetComponent<SpriteRenderer>().enabled = false;
     }
 }
